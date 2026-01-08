@@ -6,4 +6,4 @@ Open sharing drives progress: Opening up datasets to more researchers and develo
 Download the dataset through the Baidu Netdisk link, which you can use for academic research
 
 
-This URL is in the txt file
+This download URL is in the txt file
